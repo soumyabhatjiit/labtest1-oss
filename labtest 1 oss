@@ -1,0 +1,48 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import array as arr
+
+def patient info(id,name,personal information,medical history, room number,total bill,assigned doctor):
+   details=input(f"the details of the patient are given as {patientinfo.name}{patientinfo.id}{patientinfo.medicalhistory}{patientinfo.roomnumber})
+{patientinfo.totalbill}{patientinfo.assigneddoctor}")
+print(details)
+patient_array =np.array[id,name,personal information,medical history, room number,total bill] 
+ for value in patient_array:
+   return(value)=patient_array(key)
+       return patient_array          
+def doctorinfo(id ,name,specialisation):
+   details=input(f"the details of the given doctors are{doctorinfo.name} {doctorinfo.id}{doctorinfo.specialisation})  
+     print (details)
+                 
+  doctor_array=np.array[id ,name,specialisation] 
+    for value in doctor_array:
+    return(value) =doctor_array(key)
+                 return  doctor_array
+                 
+      def finddetails(patient_id, doctor_id,count)
+                 np.random.seed(10)
+                 
+                
+         max_patient,min_patient=np.lim()
+                 for np.count in patient_array:
+                 if(np.count<=patient_id):
+                 print(f"{doctor_id}has been assigned with{max_patient})
+                elif:  
+                 print(f"{doctor_id} has been assigned with{min_patient}) 
+                       
+        def assigneddoctor(patient_id,doctor_array,np.count) 
+               for np.count in patient_array,doctor_array:
+                 if(doctor.id==patientinfo.assigend doctor):
+                       return ( true)
+                       return (np.count.patient_id)
+                       
+                 
+         def maxminbill(patientinfo,doctorinfo,calc_of_bill)
+            maxbill,minbill= np.lim()
+            calc_of_bill=Number of days spent* Charge per day
+             for patient_id in patient_array:
+                       if(calc_of_bill is max)
+                       print(f"{patient.name} has maximum bill)
+                        elif
+                             print(f"{patient.name} has the minimum bill)
+                       
